@@ -1,0 +1,43 @@
+main {
+  display: flex;
+  flex-direction: column;
+ 
+  background-color: #166a6a;
+}
+
+.card-collection {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+}
+
+.standout {
+  box-shadow: rgb(226, 8, 8, 0.16) 0px 1px 4px, rgb(19, 17, 17) 0px 0px 0px 3px;
+}
+
+h1,h2,h3,h4,h5,p {
+  text-align: center;
+  color: white;
+  
+}
+
+}
+
+.select-group {
+  display: flex;
+  justify-content: center;
+  margin-bottom: 50px;
+  
+  
+}
+
+.option-select { 
+    background-color: yellowgreen; 
+    border-radius: value; 
+    font-size: bold; 
+}
+
+@media only screen and (max-width:600px){
+  .card-collection {
+    grid-template-columns: 1fr;
+  }
+}
