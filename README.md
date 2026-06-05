@@ -24,7 +24,7 @@ I've independently built and deployed SaaS products, delivered client work for t
 ### 🔨 What I'm Building
 
 - **InboxRules** — SaaS email compliance and deliverability platform for cold emailers, B2B marketers, and small teams. Next.js, Fastify, BullMQ/Redis, PostgreSQL, Anthropic API.
-- **Safethrift** — A community-owned, interest-free financial cooperative helping people and small businesses access fair, responsible finance — especially those excluded by traditional banks.
+- **Safethrift** — A community-owned, interest-free financial cooperative helping people and small businesses access fair, responsible finance especially those excluded by traditional banks.
 - **OrbitOps** — *(in progress)*
 
 ---
@@ -38,7 +38,7 @@ I've independently built and deployed SaaS products, delivered client work for t
 `Next.js` `React` `JavasScript` `TypeScript` `Tailwind CSS` `Framer Motion`
 
 **Infra & Cloud**
-`AWS S3` `Docker` `Kubernetes` `Vercel` `Railway` `Render`
+`AWS S3` `Docker` `Kubernetes`
 
 **AI & Tooling**
 `Anthropic API` `Gemini AI` `Git`
@@ -50,9 +50,9 @@ I've independently built and deployed SaaS products, delivered client work for t
 | Project | Description | Stack |
 |---|---|---|
 | [Accian Limited](https://accian.co.uk) | Full-stack client work for a UK-based technology and cyber security company | Next.js, Node.js, TypeScript, PostgreSQL |
-| [Hookdropi](https://hookdropi.qzz.io) | Webhook inspection and forwarding SaaS — live and deployed | Next.js, Node.js, Redis, Paystack |
+| [Hookdropi](https://hookdropi.qzz.io) | Webhook inspection and forwarding SaaS. live and deployed | Next.js, Node.js, TypeScript PostgresDB, Redis, Paystack |
 | [2Care Foot Health](https://2carefoothealth.co.uk) | Foot health clinic site with animations | Next.js, TypeScript, Tailwind, Framer Motion |
-| [Grace Urt](https://graceurt.com) | Live property rental platform | Next.js, PostgreSQL |
+| [Grace Urt](https://graceurt.com) | Live property rental platform | Next.js, Nodejs, JavaScript, AWS3 Framer Motion Tailwind CSS MongoDB |
 
 ---
 
