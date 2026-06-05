@@ -50,9 +50,9 @@ I've independently built and deployed SaaS products, delivered client work for t
 | Project | Description | Stack |
 |---|---|---|
 | [Accian Limited](https://accian.co.uk) | Full-stack client work for a UK-based technology and cyber security company | Next.js, Node.js, TypeScript, PostgreSQL |
-| [Hookdropi](https://hookdropi.qzz.io) | Webhook inspection and forwarding SaaS. live and deployed | Next.js, Node.js, TypeScript PostgresDB, Redis, Paystack |
+| [Hookdropi](https://hookdropi.qzz.io) | Webhook inspection and forwarding SaaS. live and deployed | Next.js, Node.js, TypeScript, PostgresDB, Redis, Paystack |
 | [2Care Foot Health](https://2carefoothealth.co.uk) | Foot health clinic site with animations | Next.js, TypeScript, Tailwind, Framer Motion |
-| [Grace Urt](https://graceurt.com) | Live property rental platform | Next.js, Nodejs, JavaScript, AWS3 Framer Motion Tailwind CSS MongoDB |
+| [Grace Urt](https://graceurt.com) | Live property rental platform | Next.js, Nodejs, JavaScript, AWS3, Framer Motion, Tailwind CSS, MongoDB |
 
 ---
 
