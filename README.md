@@ -1,17 +1,62 @@
-## Running React on Repl.it
+<h1 align="center">Hi, I'm Princewill 👋</h1>
 
-[React](https://reactjs.org/) is a popular JavaScript library for building user interfaces.
+<p align="center">
+  Product-minded Software Engineer · Backend-focused · Lagos, Nigeria 🇳🇬
+</p>
 
-[Vite](https://vitejs.dev/) is a blazing fast frontend build tool that includes features like Hot Module Reloading (HMR), optimized builds, and TypeScript support out of the box.
+<p align="center">
+  <a href="https://linkedin.com/in/ohuchukwuprincewill" target="_blank">LinkedIn</a> ·
+  <a href="https://hookdropi.qzz.io" target="_blank">Hookdropi</a>
+</p>
 
-Using the two in conjunction is one of the fastest ways to build a web app.
+---
 
-### Getting Started
-- Hit run
-- Edit [App.jsx](#src/App.jsx) and watch it live update!
+### About Me
 
-By default, Replit runs the `dev` script, but you can configure it by changing the `run` field in the [configuration file](#.replit). Here are the vite docs for [serving production websites](https://vitejs.dev/guide/build.html)
+Product-minded Software Engineer building scalable APIs, SaaS platforms, AI tools, automation systems, and modern web apps.
 
-### Typescript
+I've independently built and deployed SaaS products, delivered client work for technology and cybersecurity companies, and currently building across fintech, ops, and email compliance. Backend-focused, full-stack capable. Clean architecture, real-world constraints, shipped software.
 
-Just rename any file from `.jsx` to `.tsx`. You can also try our [TypeScript Template](https://replit.com/@replit/React-TypeScript)
+🎓 **Kubernetes and Cloud Native Associate (KCNA)** — recently certified.
+
+---
+
+### 🔨 What I'm Building
+
+- **InboxRules** — SaaS email compliance and deliverability platform for cold emailers, B2B marketers, and small teams. Next.js, Fastify, BullMQ/Redis, PostgreSQL, Anthropic API.
+- **Safethrift** — A community-owned, interest-free financial cooperative helping people and small businesses access fair, responsible finance — especially those excluded by traditional banks.
+- **OrbitOps** — *(in progress)*
+
+---
+
+### 🛠 Tech Stack
+
+**Backend** *(primary focus)*
+`NestJS` `Node.js` `Fastify` `Express` `BullMQ` `Redis` `PostgreSQL` `Prisma` `REST APIs`
+
+**Frontend**
+`Next.js` `React` `JavasScript` `TypeScript` `Tailwind CSS` `Framer Motion`
+
+**Infra & Cloud**
+`AWS S3` `Docker` `Kubernetes` `Vercel` `Railway` `Render`
+
+**AI & Tooling**
+`Anthropic API` `Gemini AI` `Git`
+
+---
+
+### 📌 Featured Projects
+
+| Project | Description | Stack |
+|---|---|---|
+| [Accian Limited](https://accian.co.uk) | Full-stack client work for a UK-based technology and cyber security company | Next.js, Node.js, TypeScript, PostgreSQL |
+| [Hookdropi](https://hookdropi.qzz.io) | Webhook inspection and forwarding SaaS — live and deployed | Next.js, Node.js, Redis, Paystack |
+| [2Care Foot Health](https://2carefoothealth.co.uk) | Foot health clinic site with animations | Next.js, TypeScript, Tailwind, Framer Motion |
+| [Grace Urt](https://graceurt.com) | Live property rental platform | Next.js, PostgreSQL |
+
+---
+
+### 📫 Get in Touch
+
+- LinkedIn: [linkedin.com/in/ohuchukwuprincewill](https://linkedin.com/in/ohuchukwuprincewill)
+- Open to freelance projects, collaborations, and full-time roles.
