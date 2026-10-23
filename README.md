@@ -1,62 +1,76 @@
-<h1 align="center">Hi, I'm Princewill 👋</h1>
+# Hi, I'm Princewill 👋
 
-<p align="center">
-  Product-minded Software Engineer · Backend-focused · Lagos, Nigeria 🇳🇬
-</p>
+**Backend Engineer & SaaS Builder | Full-Stack Developer | AI & Automation**
 
-<p align="center">
-  <a href="https://linkedin.com/in/ohuchukwuprincewill" target="_blank">LinkedIn</a> ·
-  <a href="https://hookdropi.qzz.io" target="_blank">Hookdropi</a>
-</p>
+📍 Lagos, Nigeria · Open to remote opportunities
 
----
+I build backend systems, REST APIs, SaaS products, and web applications that solve practical problems. My work spans API design, database architecture, full-stack development, and integrating AI into useful products.
 
-### About Me
+I enjoy taking projects from idea to implementation, with a focus on maintainability, reliability, and real-world usability.
 
-Product-minded Software Engineer building scalable APIs, SaaS platforms, AI tools, automation systems, and modern web apps.
+- 🔧 **Core focus:** Backend engineering, APIs, SaaS architecture, and automation
+- 🧠 **Exploring:** AI-powered developer tools and learning applications
+- ☁️ **Certification:** Kubernetes and Cloud Native Associate (KCNA)
+- 🤝 **Open to:** Backend, Full-Stack, and AI Automation opportunities
 
-I've independently built and deployed SaaS products, delivered client work for technology and cybersecurity companies, and currently building across fintech, ops, and email compliance. Backend-focused, full-stack capable. Clean architecture, real-world constraints, shipped software.
+## 🚀 Featured Projects
 
-🎓 **Kubernetes and Cloud Native Associate (KCNA)** — recently certified.
+### [Card Validation API](https://github.com/bobprince4u/Card-Validation-API)
+A TypeScript and Express API for validating payment card numbers.
 
----
+- REST API development and input validation
+- Automated tests with Jest and Supertest
+- TypeScript build and dependency-security improvements
 
-### 🔨 What I'm Building
+**Stack:** TypeScript · Node.js · Express · Jest · Supertest
 
-- **InboxRules** — SaaS email compliance and deliverability platform for cold emailers, B2B marketers, and small teams. Next.js, Fastify, BullMQ/Redis, PostgreSQL, Anthropic API.
-- **Safethrift** — A community-owned, interest-free financial cooperative helping people and small businesses access fair, responsible finance especially those excluded by traditional banks.
-- **OrbitOps** — *(in progress)*
+### [ACCIAN](https://accian.co.uk)
+Full-stack client work for a UK-based, including an administrative dashboard.
 
----
+- Contributed across the development lifecycle, from implementation to deployment
+- Worked with frontend, backend, and database technologies
 
-### 🛠 Tech Stack
+**Stack:** React · Next.js · Node.js · Express · PostgreSQL
 
-**Backend** *(primary focus)*
-`NestJS` `Node.js` `Fastify` `Express` `BullMQ` `Redis` `PostgreSQL` `Prisma` `REST APIs`
+### StudyPal v2
+An ongoing project focused on improving an AI-assisted learning application.
 
-**Frontend**
-`Next.js` `React` `JavasScript` `TypeScript` `Tailwind CSS` `Framer Motion`
+- Exploring ways to make studying and exam preparation more useful
+- Focused on architecture, maintainability, and evidence-driven development
 
-**Infra & Cloud**
-`AWS S3` `Docker` `Kubernetes`
+**Stack:** JavaScript · TypeScript · AI integration
 
-**AI & Tooling**
-`Anthropic API` `Gemini AI` `Git`
+### [Hookdropi](https://hookdropi.qzz.io)
+A webhook inspection and forwarding tool designed to help developers inspect requests and debug integrations.
 
----
+**Focus:** Webhooks · API debugging · Developer tooling
 
-### 📌 Featured Projects
+## 🛠️ Tech Stack
 
-| Project | Description | Stack |
-|---|---|---|
-| [Accian Limited](https://accian.co.uk) | Full-stack client work for a UK-based technology and cyber security company | Next.js, Node.js, TypeScript, PostgreSQL |
-| [Hookdropi](https://hookdropi.qzz.io) | Webhook inspection and forwarding SaaS. live and deployed | Next.js, Node.js, TypeScript, PostgresDB, Redis, Paystack |
-| [2Care Foot Health](https://2carefoothealth.co.uk) | Foot health clinic site with animations | Next.js, TypeScript, Tailwind, Framer Motion |
-| [Grace Urt](https://graceurt.com) | Live property rental platform | Next.js, Nodejs, JavaScript, AWS3, Framer Motion, Tailwind CSS, MongoDB |
+**Backend:** Node.js · NestJS · Express.js · REST APIs
 
----
+**Languages:** JavaScript · TypeScript · SQL
 
-### 📫 Get in Touch
+**Databases:** PostgreSQL · MongoDB
 
-- LinkedIn: [linkedin.com/in/ohuchukwuprincewill](https://linkedin.com/in/ohuchukwuprincewill)
-- Open to freelance projects, collaborations, and full-time roles.
+**Frontend:** React · Next.js · Tailwind CSS
+
+**Cloud & Tools:** Docker · Git · GitHub · Cloud deployment
+
+**AI:** Google Gemini API · AI-assisted development and automation
+
+## 📌 What I Value
+
+- Clear API contracts and maintainable architecture
+- Reliable database design and data integrity
+- Automated testing and secure dependency management
+- Practical solutions over unnecessary complexity
+- Continuous learning through building and improving real projects
+
+## 📫 Connect With Me
+
+- [LinkedIn](https://linkedin.com/in/ohuchukwuprincewill)
+- [GitHub Repositories](https://github.com/bobprince4u?tab=repositories)
+- [Hookdropi](https://hookdropi.qzz.io)
+
+I'm open to collaborating on useful software products and discussing backend, full-stack, SaaS, and AI automation opportunities.
