@@ -2,7 +2,7 @@
 
 **Backend Engineer & SaaS Builder | Full-Stack Developer | AI & Automation**
 
-📍 Lagos, Nigeria · Open to remote opportunities
+ Lagos, Nigeria · Open to remote opportunities
 
 I build backend systems, REST APIs, SaaS products, and web applications that solve practical problems. My work spans API design, database architecture, full-stack development, and integrating AI into useful products.
 
