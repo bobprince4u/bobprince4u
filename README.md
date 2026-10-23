@@ -30,15 +30,20 @@ Full-stack client work for a UK-based, including an administrative dashboard.
 - Contributed across the development lifecycle, from implementation to deployment
 - Worked with frontend, backend, and database technologies
 
-**Stack:** React · Next.js · Node.js · Express · PostgreSQL
+**Stack:** TypeScript . React · Next.js · Node.js · Express · PostgreSQL
 
-### StudyPal v2
-An ongoing project focused on improving an AI-assisted learning application.
+### StudyPal — AI-Powered Learning Application
 
-- Exploring ways to make studying and exam preparation more useful
-- Focused on architecture, maintainability, and evidence-driven development
+A completed full-stack application designed to support learning and exam preparation with AI-powered features.
 
-**Stack:** JavaScript · TypeScript · AI integration
+- Built a Next.js frontend and Express backend
+- Integrated Google Gemini AI
+- Includes PDF-processing capabilities
+- Uses PostgreSQL for database functionality
+
+**Status:** Completed · Not yet deployed
+
+**Stack:** TypeScript . Next.js · React · Node.js · Express · PostgreSQL · Google Gemini API
 
 ### [Hookdropi](https://hookdropi.qzz.io)
 A webhook inspection and forwarding tool designed to help developers inspect requests and debug integrations.
