@@ -8,12 +8,12 @@ I build backend systems, REST APIs, SaaS products, and web applications that sol
 
 I enjoy taking projects from idea to implementation, with a focus on maintainability, reliability, and real-world usability.
 
-- 🔧 **Core focus:** Backend engineering, APIs, SaaS architecture, and automation
-- 🧠 **Exploring:** AI-powered developer tools and learning applications
-- ☁️ **Certification:** Kubernetes and Cloud Native Associate (KCNA)
-- 🤝 **Open to:** Backend, Full-Stack, and AI Automation opportunities
+-  **Core focus:** Backend engineering, APIs, SaaS architecture, and automation
+-  **Exploring:** AI-powered developer tools and learning applications
+-  **Certification:** Kubernetes and Cloud Native Associate (KCNA)
+-  **Open to:** Backend, Full-Stack, and AI Automation opportunities
 
-## 🚀 Featured Projects
+##  Featured Projects
 
 ### [Card Validation API](https://github.com/bobprince4u/Card-Validation-API)
 A TypeScript and Express API for validating payment card numbers.
@@ -45,7 +45,7 @@ A webhook inspection and forwarding tool designed to help developers inspect req
 
 **Focus:** Webhooks · API debugging · Developer tooling
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 **Backend:** Node.js · NestJS · Express.js · REST APIs
 
@@ -59,7 +59,7 @@ A webhook inspection and forwarding tool designed to help developers inspect req
 
 **AI:** Google Gemini API · AI-assisted development and automation
 
-## 📌 What I Value
+##  What I Value
 
 - Clear API contracts and maintainable architecture
 - Reliable database design and data integrity
